@@ -1,0 +1,52 @@
+/** Global **/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+p{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+}
+h1{ 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+button{
+    padding: 10px 30px;
+    background: #E76F51;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #E76F51 ;
+}
+span{
+    color: #E76F51;
+}
+
+/** Header **/
+.hero-section{
+    background-color: #264653;
+    width: 100%;
+}
+
+/** Features Style **/
+.rectangle{
+    height: 2px;
+    width: 70px;
+    background-color: #E76F51;
+    margin: 0 auto;  
+}
+.features-bike{
+    filter: grayscale(100%);
+}
+
+
+
+
